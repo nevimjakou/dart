@@ -92,4 +92,5 @@ void main() {
 
   random = new Random();
   run();
+  window.console.log("test");
 }
